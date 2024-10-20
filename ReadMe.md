@@ -11,7 +11,6 @@ Name: Tamerlan
 ![](https://github-readme-stats.vercel.app/api?username=skyfatee&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=skyfatee&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=skyfatee&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=skyfatee&icon=1&color=1)](https://visitcount.itsvg.in)
