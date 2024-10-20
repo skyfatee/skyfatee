@@ -1,7 +1,6 @@
 # 💫 About Me:
-Начинающий Frontend Developer. 
-Сверстал более 5-6 проектов / 5 из которых на чистом HTML, CSS, JS Script, и 1 в связке с PHP.
-
+Name: Tamerlan 
+Age: 17
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/skyfatee) 
